@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @domilarae
-- 👀 I’m interested in analyzing health science data.
 - 🌱 I’m currently learning R.
-- 📫 How to reach me - youtube @domilarae
-- ⚡ Check out my repositories for my personal projects!
+- 📫 How to reach me - https://bio.site/domilarae
+- ⚡ Check out my personal projects!
 
 <!---
 domilarae/domilarae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
