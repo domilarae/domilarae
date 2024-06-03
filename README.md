@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @domilarae
 - 🌱 I’m currently learning R.
-- 📫 How to reach me - https://bio.site/domilarae
-- ⚡ Check out my personal projects!
+- 📫 https://bio.site/domilarae
 
 <!---
 domilarae/domilarae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
