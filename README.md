@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domilarae
-- 🌱 I’m currently learning R.
-- 📫 https://bio.site/domilarae
+- 🌱 I’m currently learning database management
+- 📫 https://domilarae.github.io/
 
 <!---
 domilarae/domilarae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
