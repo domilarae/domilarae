@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domilarae
-- 🌱 I’m currently learning database management
+- 🌱 I’m currently learning bioinformatics
 - 📫 https://domilarae.github.io/
 
 <!---
