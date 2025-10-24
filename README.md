@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @domilarae
 - 🌱 I’m currently learning bioinformatics
-- 📫 https://domilarae.github.io/
 
 <!---
 domilarae/domilarae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
